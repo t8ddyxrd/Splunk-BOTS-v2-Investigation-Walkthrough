@@ -11,7 +11,7 @@ Detect potential Command & Control (C2) activity within BOTSv2 by identifying **
 ## 🔎 Investigation Steps  
 
 ### Step 1 – Identify Outbound Connections  
-```spl
+
 <img width="1919" height="960" alt="Screenshot_20250824_165426" src="https://github.com/user-attachments/assets/ef6d9dae-e416-4d71-b714-4f74dfb45b3a" />
 
 📌 Purpose: Establish baseline of client → server communication.
