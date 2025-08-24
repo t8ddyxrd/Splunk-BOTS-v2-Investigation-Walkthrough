@@ -12,7 +12,8 @@ Detect potential Command & Control (C2) activity within BOTSv2 by identifying **
 
 ### Step 1 – Identify Outbound Connections  
 ```spl
-<img width="1913" height="829" alt="Screenshot_20250824_162517" src="https://github.com/user-attachments/assets/8b0e33e0-5ce7-419c-9bc8-407e0dc0bebe" />
+<img width="1919" height="960" alt="Screenshot_20250824_165426" src="https://github.com/user-attachments/assets/ef6d9dae-e416-4d71-b714-4f74dfb45b3a" />
+
 📌 Purpose: Establish baseline of client → server communication.
 ps: use | sort by - count in order to find the IP that is being hit the most.
 
