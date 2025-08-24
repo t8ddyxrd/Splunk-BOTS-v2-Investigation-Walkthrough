@@ -17,7 +17,7 @@ Detect potential Command & Control (C2) activity within BOTSv2 by identifying **
 📌 Purpose: Establish baseline of client → server communication.
 ps: use | sort by - count in order to find the IP that is being hit the most.
 
-```
+
 spl
 
 Step 2 – Visualize Connection Frequency
