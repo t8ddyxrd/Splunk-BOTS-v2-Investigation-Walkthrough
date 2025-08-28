@@ -43,7 +43,7 @@ Step 5 – Cross-Check with IDS Alerts (Suricata)
 
 📝 Findings
 
-Detected a regular beaconing pattern from workstation 172.31.10.10 to suscipious IP 172.31.10.10
+Detected a regular beaconing pattern from workstation 172.31.10.10 to suscipious IP 34.197.89.81
 -Activity occurred at ~5-minute intervals (indicative of C2 heartbeat).
 
 -HTTP requests were repetitive (same URI/method).
